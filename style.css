@@ -1,0 +1,88 @@
+.head a, head button {
+  margin: 10px;
+}
+
+.link button {
+  background-color: blue;
+  border-radius: 70px;
+  font-weight: bold;
+  font-size: 70px;
+}
+
+.tb {
+  float: right;
+  font-size: 90px;
+}
+
+.div0 {
+  font-size: 200px;
+padding: 10px;
+animation: mymo1 5s infinite;
+  animation: mymo 2s infinite;
+}
+
+
+.search {
+  color: black;
+  height: 7vh;
+  font-size: 70px;
+  padding: 30px;
+  border-radius: 100px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+
+}
+
+.search-btn {
+  height: 170px;
+  border-radius: 30px;
+  font-size: 70px;
+  padding: 10px;
+  color: #ooo;
+  background: #ffeb3b;
+  margin-left: 30px;
+}
+
+.div2 {
+  color: black;
+  margin-right: 180vh;
+  font-size: 80px;
+  font-size: bold;
+  text-align: justify;
+
+}
+
+.myDiv{
+  position: absolute;
+  width: 90px;
+  height: 90px;
+  color:white;
+  top: 0;
+  right: 205px;
+  animation: mymove 10s infinite;
+  border-radius:50px;
+}
+
+
+.mp3 {
+  color: red;
+  font-size: 30px;
+}
+
+.mp4 {
+  color: red;
+}
+.b{
+  background-image: url(jung.jpg);
+  background-size: 6000px 3000px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color:#438a5e;
+  animation: mymo1 5s infinite;
+  animation: mymo 2s infinite;
+}
+.py{
+  float:center;
+  font-size: bold;
+
+}
